@@ -1,13 +1,18 @@
-<h1 align="center">🖥🖱 Nicole Opazo 🖱🖥</h1>
-<h3 align="center">Full Stack Developer Java Jr.</h3>
+<h2 align="center">🖥🖱 Nicole Opazo Aranda 🖱🖥</h3>
+<h4 align="center">Full Stack Developer Java Jr.</h4>
 
 <p>Me desempeño desarrollando proyectos web bajo metodologías ágiles. Cuento con habilidades en tanto Front-End como Back-End, manejo de bases de datos relacionales, pruebas unitarias y herramientas de versionamiento de código</p>
 <p>Con ganas de enfrentar nuevos desafíos, y siempre dispuesta a aprender y desarrollar nuevas tecnologías con el fin de mantenerme actualizada.</p>
-<p>Metódica, alta capacidad de análisis, enfocada en el trabajo en equipo pudiendo adaptarme rápidamente, proactiva, y no menos importante: creativa.</p>
+<p>⚔ Metódica</p>
+<p>⚔ Alta capacidad de análisis</p>
+<p>⚔ Enfocada en el trabajo en equipo</p>
+<p>⚔ Adaptable</p>
+<p>⚔ Creativa</p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/83/97/3f/83973f12d0d99dc14f122739fd81f6e0.gif"/>
+<br/>
 
-📩 How to reach me **nicoole.oapzo@gmail.com**
+📩 How to reach me **nicoole.opazo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
