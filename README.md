@@ -1,5 +1,10 @@
+<p align="center" height="40">
+  <img src="https://i.pinimg.com/originals/cb/03/3a/cb033a9043b4e57fb8fbcf3f692922f3.gif" alt="Banner de bienvenida">
+</p>
+
 <h1 align="center">🖥🖱 Nicole Opazo 🖥🖱</h1>
 <h3 align="center">Full Stack Developer Java Jr.</h3>
+
 <p>Me desempeño desarrollando proyectos web bajo metodologías ágiles. Cuento con habilidades en tanto Front-End como Back-End, manejo de bases de datos relacionales, pruebas unitarias y herramientas de versionamiento de código</p>
 <p>Con ganas de enfrentar nuevos desafíos, y siempre dispuesta a aprender y desarrollar nuevas tecnologías con el fin de mantenerme actualizada.</p>
 <p>Metódica, alta capacidad de análisis, enfocada en el trabajo en equipo pudiendo adaptarme rápidamente, proactiva, y no menos importante: creativa.</p>
