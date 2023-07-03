@@ -1,5 +1,5 @@
 <h2 align="center">🖥🖱 Nicole Opazo Aranda 🖱🖥</h3>
-<h4 align="center">Full Stack Developer Java Jr.</h4>
+<h4 align="center">Desarrolladora Fullstack Java Jr.</h4>
 
 <p>Me desempeño desarrollando proyectos web bajo metodologías ágiles. Cuento con habilidades en tanto Front-End como Back-End, manejo de bases de datos relacionales, pruebas unitarias y herramientas de versionamiento de código</p>
 <p>Con ganas de enfrentar nuevos desafíos, y siempre dispuesta a aprender y desarrollar nuevas tecnologías con el fin de mantenerme actualizada.</p>
