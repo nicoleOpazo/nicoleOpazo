@@ -1,4 +1,4 @@
-<p align="center" height="20">
+<p align="center" height="10">
   <img src="https://i.pinimg.com/originals/cb/03/3a/cb033a9043b4e57fb8fbcf3f692922f3.gif" alt="Banner de bienvenida">
 </p>
 
