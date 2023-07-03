@@ -1,6 +1,6 @@
-<p align="center" height="10">
+<div align="center" height="10">
   <img src="https://i.pinimg.com/originals/cb/03/3a/cb033a9043b4e57fb8fbcf3f692922f3.gif" alt="Banner de bienvenida">
-</p>
+</div>
 
 <h1 align="center">🖥🖱 Nicole Opazo 🖥🖱</h1>
 <h3 align="center">Full Stack Developer Java Jr.</h3>
