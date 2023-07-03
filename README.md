@@ -1,4 +1,4 @@
-<h1 align="center">🖥🖱 Nicole Opazo 🖥🖱</h1>
+<h1 align="center">🖥🖱 Nicole Opazo 🖱🖥</h1>
 <h3 align="center">Full Stack Developer Java Jr.</h3>
 
 <p>Me desempeño desarrollando proyectos web bajo metodologías ágiles. Cuento con habilidades en tanto Front-End como Back-End, manejo de bases de datos relacionales, pruebas unitarias y herramientas de versionamiento de código</p>
